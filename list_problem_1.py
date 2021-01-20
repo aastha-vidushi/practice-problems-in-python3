@@ -1,7 +1,3 @@
-'''
-Consider a string '11155422211788888' and group them in such a way the output is ['111','55', '4','222', '11', '7', '88888']
-'''
-
 ip ="192.168.225.134"
 print("Given IP : ", ip)
 
